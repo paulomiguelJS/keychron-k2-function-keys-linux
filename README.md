@@ -22,7 +22,7 @@ Open a terminal window and enter the following command:
 ```shell
 # Set the EDITOR variable with EDITOR=nano, uncommenting the line directly below
 # EDITOR=nano
-sudoedit /etc/systemd/system/keychron.service
+sudo edit /etc/systemd/system/keychron.service
 ```
 
 ## Step 2
